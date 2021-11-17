@@ -1,0 +1,43 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Cellular and Molecular Medicine"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f8fe805d-d1cb-f890-83d7-13695fc2a3ab",
+      "266f024b-b9de-12a3-c5d6-eb85600f7420"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The RNA Revolution: At the Frontiers of Cell Biology and Molecular Medicine",
+  "course_description": "In this course, we will investigate the diverse types and functions of different RNA species, with a focus on \"non-coding RNAs,\" i.e. those that do not directly encode proteins. The course will convey both the exciting discoveries in and frontiers of RNA research that are propelling our understanding of cell biology as well as the intellectual and experimental approaches responsible.\n\nThe molecular biology revolution firmly established the role of DNA as the primary carrier of genetic information and proteins as the primary effector molecules of the cell. The intermediate between DNA and proteins is RNA, which initially was regarded as the \"molecule in the middle\" of the central dogma. This view has been transformed over the past two decades, as RNA has become recognized as a critical regulator of cellular processes.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.342",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
